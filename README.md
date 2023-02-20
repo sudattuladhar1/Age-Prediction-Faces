@@ -1,9 +1,9 @@
 # Age_Prediction_of_IMDB_WIKI_face_image
 The main objective of the project is to predict the age of celebrities based on their IMDB/WIKI face dataset. Some other objectives includes
 	
-●	Design and implement different convolutional neural network (CNN) architectures using PyTorch.
-●	Use IMDB/WIKI dataset (faces only) for training, testing, and validation of network.
-●	Evaluate the performance of designed neural networks.
+1. Design and implement different convolutional neural network (CNN) architectures using PyTorch.
+2. Use IMDB/WIKI dataset (faces only) for training, testing, and validation of network.
+3. Evaluate the performance of designed neural networks.
 
 The project execution involved pre-processing raw data, implementing different CNN architectures, training and testing on IMDB/WIKI dataset and obtain accuracy results on age prediction. 
 
